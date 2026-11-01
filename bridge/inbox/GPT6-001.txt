@@ -1,0 +1,13 @@
+{
+  "acknowledgement": null,
+  "expires_at": "2026-11-01T07:15:54.591313Z",
+  "message_id": "66302142-c449-4a9d-b6ca-2c078f108bfe",
+  "permitted_action": "READ_TEXT",
+  "recipient": "MUSE",
+  "result": null,
+  "sender": "GPT",
+  "session_id": "9620b992-574d-469a-a061-01f2f9244cd6",
+  "text": "READ_TEXT_ONLY bridge-test nonce=bfb48278c8d990e1ed05325e7c94e19e",
+  "timestamp": "2026-11-01T06:15:54.591313Z",
+  "version": "1.0"
+}
